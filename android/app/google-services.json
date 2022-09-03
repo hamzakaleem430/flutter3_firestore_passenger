@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1076556903615",
+    "project_id": "hyredriver-9ff34",
+    "storage_bucket": "hyredriver-9ff34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076556903615:android:5cbe75734e6975f411020a",
+        "android_client_info": {
+          "package_name": "com.hyre.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076556903615-32oc97s8ursufpc82umt90eprmsjnitq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZr9ayekw5WaqLqdXShxHebPR83WhmCPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076556903615-32oc97s8ursufpc82umt90eprmsjnitq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076556903615:android:5fd947e9dc0342e111020a",
+        "android_client_info": {
+          "package_name": "com.hyre.passenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076556903615-32oc97s8ursufpc82umt90eprmsjnitq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZr9ayekw5WaqLqdXShxHebPR83WhmCPc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076556903615-32oc97s8ursufpc82umt90eprmsjnitq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
